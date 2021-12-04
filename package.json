@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-opentok",
-  "version": "3.4.3",
+  "version": "3.5.0",
   "description": "Add live video streaming to your Cordova Application",
   "cordova": {
     "id": "cordova-plugin-opentok",
@@ -11,19 +11,19 @@
     ]
   },
   "dependencies": {
-    "@opentok/client": "2.15.5",
-    "exec": "^0.2.0",
-    "tar": "^2.0.0"
+    "@opentok/client": "2.21.2",
+    "exec": "0.2.0",
+    "tar": "2.2.0"
   },
   "devDependencies": {
     "grunt": "^0.4.5",
-    "grunt-contrib-coffee": "^0.10.1",
-    "grunt-contrib-concat": "^0.4.0",
-    "grunt-contrib-jshint": "~0.10.0",
-    "grunt-contrib-nodeunit": "~0.3.3",
-    "grunt-contrib-uglify": "~0.4.0",
-    "grunt-contrib-watch": "~0.6.1",
-    "q": "^1.5.1"
+    "grunt-contrib-coffee": "0.10.1",
+    "grunt-contrib-concat": "0.4.0",
+    "grunt-contrib-jshint": "0.10.0",
+    "grunt-contrib-nodeunit": "0.3.3",
+    "grunt-contrib-uglify": "0.4.1",
+    "grunt-contrib-watch": "0.6.1",
+    "q": "1.5.1"
   },
   "repository": {
     "type": "git",
