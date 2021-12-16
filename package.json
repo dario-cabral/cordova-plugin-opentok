@@ -27,7 +27,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/opentok/cordova-plugin-opentok.git"
+    "url": "git+https://github.com/dario-cabral/cordova-plugin-opentok.git"
   },
   "keywords": [
     "opentok",
@@ -40,7 +40,7 @@
   "author": "Manik Sachdeva",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/opentok/cordova-plugin-opentok/issues"
+    "url": "https://github.com/dario-cabral/cordova-plugin-opentok/issues"
   },
-  "homepage": "https://github.com/opentok/cordova-plugin-opentok#readme"
+  "homepage": "https://github.com/dario-cabral/cordova-plugin-opentok#readme"
 }
