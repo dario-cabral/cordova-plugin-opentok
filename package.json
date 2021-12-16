@@ -12,11 +12,11 @@
   },
   "dependencies": {
     "@opentok/client": "2.21.2",
-    "exec": "0.2.0",
-    "tar": "2.2.0"
+    "exec": "0.2.1",
+    "tar": "2.2.1"
   },
   "devDependencies": {
-    "grunt": "^0.4.5",
+    "grunt": "0.4.5",
     "grunt-contrib-coffee": "0.10.1",
     "grunt-contrib-concat": "0.4.0",
     "grunt-contrib-jshint": "0.10.0",
